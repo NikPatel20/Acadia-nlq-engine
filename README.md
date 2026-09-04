@@ -137,3 +137,11 @@ Cloud deployment, authentication, visual polish.
 ## What I'd build next
 
 See the end of `docs/SYSTEM_DESIGN.md`.
+
+## Demo
+
+### Loading an unseen CSV
+![Unseen CSV demo](docs/gifs/demo-upload.gif)
+
+### Querying the data
+![Query demo](docs/gifs/demo-upload1.gif)
